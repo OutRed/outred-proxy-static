@@ -11,6 +11,6 @@ Note: This project is only in beta and is not fully functional. The listed featu
 - Deployable on Static Web Hosting Service(s)
 - Games
 
-# Credits
+# Credits (adding links soon)
 - For the static proxy: TIW
 - For Ultraviolet: Titanium Network
