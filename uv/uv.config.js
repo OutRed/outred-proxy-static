@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/tiw/',
+    prefix: '/op/',
     bare: 'https://uv.holyubofficial.net',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
