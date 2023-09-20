@@ -4,6 +4,12 @@
 
 The deployable static version of Ultraviolet, a highly sophisticated proxy that allows people to bypass internet censorship using the power of service-workers and more. Deployment options are below.
 
+## Features
+- Changeable Bare Server (beta)
+- Can be hosted on static web server
+- Fast, depending on your selected bare server
+
+
 ## Deployment
 
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/Thesecondalthowcool/Ultraviolet-Static-Version)
